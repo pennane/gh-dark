@@ -1,0 +1,22 @@
+{
+  "name": "pennane-gh-dark",
+  "publisher": "pennane",
+  "displayName": "pennane/gh-dark",
+  "description": "github dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "gh dark theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gh dark theme-color-theme.json"
+      }
+    ]
+  }
+}
